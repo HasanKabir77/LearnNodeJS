@@ -27,4 +27,4 @@ const filePath = `${dirPath}.txt`;
 // })
 
 // Delete
-// fs.unlinkSync(`${dirPath}NewText.txt`) 
+// fs.unlinkSync(`${dirPath}NewText.txt`)
